@@ -1,4 +1,4 @@
-**Stepik.org**
+# **Stepik.org**
 
 Repository for homework from Stepik.org. 
 
